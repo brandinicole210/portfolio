@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Analyst Portfolio
 
 ## Education
 MS Data Analytics | Aug 2021 | UTSA | 4.0 GPA  
@@ -11,12 +11,13 @@ Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data 
 
 ## Work Experience
 Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (Jul 2020 - Present)
-- Funds Transfer Pricing
 - Develop methodologies and document modeling and forecasting assumptions for deposits products
-- Time Deposits Decay
-- Deposit Pricing Betas
-- Deposit Volatile and Stable Balances
-- Deposit Surge Balances  
+- Funds Transfer Pricing: data transformation using Power Query and visualize in Excel with pivot charts
+- Time Deposits Decay: SQL in Snowflake for data, Tableau for visualization, Excel for analysis
+- Deposit Pricing Betas: utilized linear regression to model deposit pricing changes with respect to changes in the Fed Funds rate
+- Deposit Volatile and Stable Balances: complex methodology to for balance mix assumption completed by querying data in Snowflake and analysis in Excel
+- Deposit Surge Balances: SQL in Snowflake for data, Excel Power Query for data transformation of secondary data source, Tableau for visualization + Excel dashboard using pivots, slicers and pivot charts
+- Liquidity Metrics: query for data using SQL in Snowflake. Reporting and analysis completed in excel.
 
 Asset Liability Risk Analyst @ Credit Human Federal Credit Union (Feb 2017 - Jul 2020)
 - Interest Rate Risk modeling
