@@ -1,9 +1,9 @@
 # Data Analyst
 
 ## Education
-MS Data Analytics | Aug 2021 | UTSA | 4.0 GPA
-MS Finance | Dec 2016 | UTSA | 4.0 GPA
-BBA Marketing | May 2011 | St. Mary’s University| 3.85 GPA
+MS Data Analytics | Aug 2021 | UTSA | 4.0 GPA 
+MS Finance | Dec 2016 | UTSA | 4.0 GPA 
+BBA Marketing | May 2011 | St. Mary’s University| 3.85 GPA 
 St. Mary’s Honors Program Scholar
 
 ## Skills
