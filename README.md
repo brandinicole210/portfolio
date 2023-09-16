@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst Portfolio
 
 ## Education
 MS Data Analytics | Aug 2021 | UTSA | 4.0 GPA  
