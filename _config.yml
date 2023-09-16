@@ -4,4 +4,14 @@ title: Brandi Rodriguez
 #description: text below image
 show_downloads: false 
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: kralizek/minimal-mistakes
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/brandinicole"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/brandirodriguez37"
