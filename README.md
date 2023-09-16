@@ -15,7 +15,7 @@ Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (Jul 2020 - Pres
 - Develop methodologies and document modeling and forecasting assumptions for deposits products
 - Time Deposits Decay
 - Deposit Pricing Betas
-- Deposit Volatile andn Stable Balance methodology and documentation
+- Deposit Volatile and Stable Balance methodology and documentation
 - Deposit Surge Balances  
 
 Asset Liability Risk Analyst @ Credit Human Federal Credit Union (Feb 2017 - Jul 2020)
