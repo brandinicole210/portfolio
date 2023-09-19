@@ -47,7 +47,8 @@ Principal Component Analysis and K Means Clustering techniques were used to crea
 ![Market_Segmentation](/assets/img/market_segmentation.jpeg)
 
 ### [Bank Marketing: Term Deposits]
-The focus of this study is on classification modeling and centers around data related to the direct marketing campaigns of a Portuguese bank institution which is used to train Logistic Regression and Linear Discriminant Analysis models. Response modeling is used by marketers to predict future response probabilities to customers based on their history with the company. In this case, the data containing attributes related to the client, campaigns, and socio-economic indicators is used to predict the binary target variable which indicates whether a client subscribed to a term deposit or not. The fitted logistic regression model outperformed all other models, with a 90.64% accuracy rate. 
+The focus of this study is on classification modeling and centers around data related to the direct marketing campaigns of a Portuguese bank institution which is used to train Logistic Regression and Linear Discriminant Analysis models. Response modeling is used by marketers to predict future response probabilities to customers based on their history with the company. In this case, the data containing attributes related to the client, campaigns, and socio-economic indicators is used to predict the binary target variable which indicates whether a client subscribed to a term deposit or not. The fitted logistic regression model outperformed all other models, with a 90.64% accuracy rate.  
+![Term Deposit Features](/assets/img/bank_term_deposit_features.jpeg)
 
 ### Case Study #3
 
