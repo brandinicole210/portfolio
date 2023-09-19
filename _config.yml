@@ -6,11 +6,25 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 
-footer:
+# Site Author
+author:
+  name             : Brandi Rodriguez
+  #avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : Experienced bank financial analyst seeking to leverage quantitative skills, analytical expertise and financial acument to excel in a data analyst role.
+  #location         : "Somewhere"
+  email            : brandi.nicole.rodriguez@gmail.com
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:brandi.nicole.rodriguez@email.com"
+    - label: "RPubs"
+      icon: "fas fa-fw fa-link"
+      # url: "https://rpubs.com/brandinicole210"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/brandinicole210"
+      # url: "https://github.com/brandinicole210"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/brandirodriguez37"
+
+
