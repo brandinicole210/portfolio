@@ -51,8 +51,10 @@ In this study, a dataset from a large Portuguese bank was analyzed and used to t
 ![Term Deposit Features](/assets/img/bank_term_deposits_features.jpg)
 
 ## Connect  
-My LinkedIn Profile: [www.linkedin.com/in/brandirodriguez37](www.linkedin.com/in/brandirodriguez37)  
-My Tableau Public Profile: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)  
-My RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
+LinkedIn: [www.linkedin.com/in/brandirodriguez37](www.linkedin.com/in/brandirodriguez37)  
+RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
+Tableau Public: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)  
+
+
 
 
