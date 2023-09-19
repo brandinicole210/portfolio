@@ -39,12 +39,10 @@ Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data 
 
 ## Projects
 ### [Bank Credit Risk: Classification](https://github.com/brandinicole210/bank-credit-risk)  
-Utilize classification predictive modeling to predict the status of whether a borrower will default on a loan as well as gain an understanding of the most influential predictors of default. Optimize and compare accuracy of logistic regression, decision tree and random forest optimized with tuning for best hyperparameters. Most important features were checking, duration, credit history and coapplicant. 
+Utilize classification predictive modeling to predict the status of whether a borrower will default on a loan as well as gain an understanding of the most influential predictors of default. Optimize and compare accuracy of logistic regression, decision tree and random forest models optimized with tuning for best hyperparameters. Most important features were checking, duration, credit history and coapplicant. 
 
-### [Market Segmentation: K Means Clustering] 
-
-
-
+### [Market Segmentation] 
+Principal Component Analysis and K Means Clustering techniques were performed and evaluated before ultimately deciding to use results of the K Means Procedure executed in SAS, which created four groups with distinct characteristics and values when shopping for a beauty product 1.) anti-aging beauty consumers 2.) health-conscious consumers, 3.) neutral consumers, and 4.) natural consumers.   
 
 
 ### Case Study #2
