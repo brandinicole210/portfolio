@@ -40,7 +40,7 @@ Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data 
 ## Projects
 ### [Bank Credit Risk: Classification](https://github.com/brandinicole210/bank-credit-risk)  
 Utilize classification predictive modeling to predict the status of whether a borrower will default on a loan as well as gain an understanding of the most influential predictors of default. Optimize and compare accuracy of logistic regression, decision tree and random forest models optimized with tuning for best hyperparameters. Most important features were checking, duration, credit history and coapplicant.  
-![Loan Rejected](/assets/img/loan_rejected.jpeg)
+![Loan_Default](/assets/img/loan_default.jpg)
 
 ### [Market Segmentation](https://github.com/brandinicole210/skin-care-market-segmentation)
 Principal Component Analysis and K Means Clustering techniques were used to create segmentation for potential consumers of a hypothetical line of skin care products made of all natural ingredients. PCA and K means clusering were coded and executed in SAS before ultimately deciding to use results of the K Means, which created four groups with distinct characteristics and values when shopping for a beauty product 1.) anti-aging beauty consumers, 2.) health-conscious consumers, 3.) neutral consumers, and 4.) natural consumers.  
@@ -48,7 +48,7 @@ Principal Component Analysis and K Means Clustering techniques were used to crea
 
 ### [Bank Marketing: Term Deposits](https://github.com/brandinicole210/marketing-term-deposits)
 In this study, a dataset from a large Portuguese bank was analyzed and used to train Logistic Regression and Linear Discriminant Analysis models to predict future response probabilities to target bank customers. The goal was to predict the success of subscribing to a long-term time deposit using attributes that are known before a call is executed. The fitted logistic regression model that used binning and feature scaling outperformed all other models, with a 90.64% accuracy rate and the odds ratios were interpreted and can give bank managers valuable insight into the features that tend to increase the odds of subscribing to a term deposit.  
-![Term Deposit Features](/assets/img/bank_term_deposit_features.jpeg)
+![Term Deposit Features](/assets/img/bank_term_deposits_features.jpg)
 
 ### Case Study #3
 
