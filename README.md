@@ -12,12 +12,12 @@ Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data 
 ## Work Experience
 **Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (_Jul 2020 - Present_)**
 - Develop methodologies and document modeling and forecasting assumptions for deposits product behaviors
-- Funds Transfer Pricing: utilize Power Query for transformation of cross tabular FTP data from excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
-- Time Deposits Decay: SQL in Snowflake for data, Tableau for visualization, Excel to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals.
-- Deposit Pricing Betas: utilized linear regression to model deposit pricing sensitivity with respect to changes in the Fed Funds rate. The resulting modeled betas are used in Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications. 
-- Deposit Volatile and Stable Balances: analysis of time series data to measure the volatility of deposit balances to quantitatively derive stable and volatile balance mix and bifurcate stable into stable floating and stable fixed balances to forecast deposit behavior and value deposit balances more precisely based on its stability. 
-- Deposit Surge Balances: SQL in Snowflake for data, Excel Power Query for data transformation of secondary data source, Tableau for visualization + Excel dashboard using pivots, slicers and pivot charts
-- Liquidity Metrics: query for data using SQL in Snowflake and Essbase data retrieves. Reporting and analysis completed in excel and presented to ALCO monthly.
+- **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular FTP data from excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
+- **Time Deposits Decay**: SQL in Snowflake for data, Tableau for visualization, Excel to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals.
+- **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity with respect to changes in the Fed Funds rate. The resulting modeled betas are used in Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications. 
+- **Deposit Volatile and Stable Balances**: analysis of time series data to measure the volatility of deposit balances to quantitatively derive stable and volatile balance mix and bifurcate stable into stable floating and stable fixed balances to forecast deposit behavior and value deposit balances more precisely based on its stability. 
+- **Deposit Pandemic Surge Balances and Uninsured Deposits Monitoring**: SQL in Snowflake for data, Excel Power Query for data transformation of secondary data source, Tableau for visualization + Excel dashboard using pivots, slicers and pivot charts
+- **Liquidity Metrics**: query for data using SQL in Snowflake and Essbase data retrieves. Reporting and analysis completed in excel and presented to ALCO monthly.
 
 **Asset Liability Risk Analyst @ Credit Human Federal Credit Union (_Feb 2017 - Jul 2020_)**
 - Interest Rate Risk modeling
