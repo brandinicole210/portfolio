@@ -46,7 +46,8 @@ Utilize classification predictive modeling to predict the status of whether a bo
 Principal Component Analysis and K Means Clustering techniques were used to create segmentation for potential consumers of a hypothetical line of skin care products made of all natural ingredients. PCA and K means clusering were coded and executed in SAS before ultimately deciding to use results of the K Means, which created four groups with distinct characteristics and values when shopping for a beauty product 1.) anti-aging beauty consumers, 2.) health-conscious consumers, 3.) neutral consumers, and 4.) natural consumers.  
 ![Market_Segmentation](/assets/img/market_segmentation.jpeg)
 
-### Case Study #2
+### [Bank Marketing: Term Deposits]
+The focus of this study is on classification modeling and centers around data related to the direct marketing campaigns of a Portuguese bank institution which is used to train Logistic Regression and Linear Discriminant Analysis models. Response modeling is used by marketers to predict future response probabilities to customers based on their history with the company. In this case, the data containing attributes related to the client, campaigns, and socio-economic indicators is used to predict the binary target variable which indicates whether a client subscribed to a term deposit or not. The fitted logistic regression model outperformed all other models, with a 90.64% accuracy rate. 
 
 ### Case Study #3
 
