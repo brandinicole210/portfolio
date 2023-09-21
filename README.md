@@ -7,17 +7,17 @@ BBA Marketing | May 2011 | St. Mary’s University | 3.85 GPA
 St. Mary’s Honors Program Scholar  
 
 ## Technical Skills  
-Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data cleaning, slicers and dashboards), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, Tableau, Advanced SAS Enterprise Guide, Basic SAS, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Intermediate R and Basic Python
+Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data cleaning, slicers and dashboards), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, Oracle SQL Developer, Tableau, Advanced SAS Enterprise Guide, Basic SAS, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Intermediate R and Basic Python
 
 ## Work Experience
 **Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (_Jul 2020 - Present_)**
 - Develop methodologies and document modeling and forecasting assumptions for deposits product behaviors
-- **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular FTP data from excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
+- **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular FTP data from Excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
 - **Time Deposits Decay**: SQL in Snowflake for data, Tableau for visualization, Excel to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals.
-- **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity with respect to changes in the Fed Funds rate. The resulting modeled betas are used in Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications. 
-- **Deposit Volatile and Stable Balances**: analysis of time series data to measure the volatility of deposit balances to quantitatively derive stable and volatile balance mix and bifurcate stable into stable floating and stable fixed balances to forecast deposit behavior and value deposit balances more precisely based on its stability. 
+- **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity with respect to changes in the Fed Funds rate. The resulting betas are used in Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications. 
+- **Deposit Volatile and Stable Balances**: analysis of time series data to measure volatility of deposit balances to quantitatively derive stable and volatile balance mix assumptions and bifurcate stable into stable floating and stable fixed balances in order to forecast deposit behavior and value deposit balances more precisely based on its stability. 
 - **Deposit Pandemic Surge Balances and Uninsured Deposits Monitoring**: SQL in Snowflake for data, Excel Power Query for data transformation of secondary data source, Tableau for visualization + Excel dashboard using pivots, slicers and pivot charts
-- **Liquidity Metrics**: query for data using SQL in Snowflake and Essbase data retrieves. Reporting and analysis completed in excel and presented to ALCO monthly.
+- **Liquidity Metrics**: query for data using SQL in Snowflake and Essbase data retrieves. Reporting and analysis completed in Excel and presented to ALCO monthly.
 
 **Asset Liability Risk Analyst @ Credit Human Federal Credit Union (_Feb 2017 - Jul 2020_)**
 - Interest Rate Risk modeling
@@ -39,7 +39,7 @@ Advanced Excel (vlookups, indexing, pivots, dynamic logic, Power Query for data 
 
 ## Projects
 ### [Bank Credit Risk: Classification](https://github.com/brandinicole210/bank-credit-risk)  
-Utilize classification predictive modeling to predict the status of whether a borrower will default on a loan as well as gain an understanding of the most influential predictors of default. Optimize and compare accuracy of logistic regression, decision tree and random forest models optimized with tuning for best hyperparameters. Most important features were checking, duration, credit history and coapplicant. [Click here](https://github.com/brandinicole210/bank-credit-risk) to learn more.  
+Utilize classification modeling to predict the status of whether a borrower will default on a loan as well as gain an understanding of the most influential predictors of default. Optimize and compare accuracy of logistic regression, decision tree and random forest models optimized with tuning for best hyperparameters. Most important features were checking, duration, credit history and coapplicant. [Click here](https://github.com/brandinicole210/bank-credit-risk) to learn more.  
 
 ![Loan_Default](/assets/img/loan_default.jpg)
 
@@ -49,7 +49,7 @@ Principal Component Analysis and K Means Clustering techniques were used to crea
 ![Market_Segmentation](/assets/img/market_segmentation.jpeg)
 
 ### [Bank Marketing: Predicting Subscriptions to Term Deposits using Logistic Regression and Linear Discriminant Analysis](https://github.com/brandinicole210/marketing-term-deposits)
-In this study, a dataset from a large Portuguese bank was analyzed and used to train Logistic Regression and Linear Discriminant Analysis models to predict future response probabilities to target bank customers. The goal was to predict the success of subscribing to a long-term time deposit using attributes that are known before a call is executed. The fitted logistic regression model that used binning and feature scaling outperformed all other models, with a 90.64% accuracy rate and the odds ratios were interpreted and can give bank managers valuable insight into the features that tend to increase the odds of subscribing to a term deposit. [Click here](https://github.com/brandinicole210/marketing-term-deposits) to learn more.  
+In this study, a dataset from a large Portuguese bank was analyzed and used to train Logistic Regression and Linear Discriminant Analysis models to predict future response probabilities to target bank customers. The goal was to predict the success of subscribing to a long-term time deposit using attributes that are known about the customer before a call is executed. The fitted logistic regression model that used binning and feature scaling outperformed all other models, with a 90.64% accuracy rate and the odds ratios were interpreted to give bank managers valuable insight into the features that tend to increase the likelihood of subscribing to a term deposit. [Click here](https://github.com/brandinicole210/marketing-term-deposits) to learn more.  
 
 ![Term Deposit Features](/assets/img/bank_term_deposits_features.jpg)
 
