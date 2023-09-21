@@ -61,6 +61,8 @@ For this project, predictive modeling is used to improve the efficacy of the Boo
 ### Customer Acquisition  
 Managing customer retention and acquisition is essential for developing and maintaining customer relationships. The _acquisitionRetention_ dataset used in this study comes from the SMRCM package in R which is used to train logistic regression, decision tree and random forest models to predict which customers will be acquired. A logistic regression model outperformed all other models, achieving an accuracy rate of 83.84%. The most significant predictors were _industry_ (1 if B2B customer, 0 otherwise), _revenue_ (annual sales revenue of the prospect's firm), and _employees_ (number of employees in the prospect's firm). [Click here](https://github.com/brandinicole210/bookbinders-book-purchase) to learn more.  
 
+![Correlogram](/assets/img/acquisition_correlogram.jpg)  
+
 ## Connect  
 LinkedIn: [www.linkedin.com/in/brandirodriguez37](https://www.linkedin.com/in/brandirodriguez37)  
 RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
