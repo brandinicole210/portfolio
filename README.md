@@ -66,7 +66,7 @@ Managing customer retention and acquisition is essential for developing and main
 ## Connect  
 LinkedIn: [www.linkedin.com/in/brandirodriguez37](https://www.linkedin.com/in/brandirodriguez37)  
 RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
-Tableau Public: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)  
+Tableau: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)  
 
 
 
