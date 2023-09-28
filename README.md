@@ -14,7 +14,7 @@ Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slic
 - Develop methodologies and document modeling and forecasting assumptions for deposits product behaviors
 - **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular deposits FTP data from Excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
 - **Time Deposits Decay**: query for data using SQL in Snowflake, Tableau for visualization and Excel for analysis to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals
-- **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity to changes in the Fed Funds rate and incorporating the modeled betas into Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications. 
+- **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity to changes in the Fed Funds rate and incorporating the modeled betas into Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications 
 - **Deposit Volatile and Stable Balances**: analysis of time series data to measure volatility of deposit balances to quantitatively derive stable and volatile balance mix assumptions and bifurcate balances into stable floating and stable fixed balances in order to forecast deposit behavior and value deposit balances more precisely based on its stability 
 - **Deposit Pandemic Surge Balances and Uninsured Deposits Monitoring**: SQL in Snowflake for data, Excel Power Query for data transformation of secondary data source, Tableau for visualization + Excel dashboard using pivots, slicers and pivot charts
 - **Liquidity Metrics**: query for data using SQL in Snowflake and Essbase data retrieves for reporting and analysis that is completed in Excel and included in monthly ALCO materials
@@ -65,8 +65,9 @@ Managing customer retention and acquisition is essential for developing and main
 
 ## Connect  
 LinkedIn: [www.linkedin.com/in/brandirodriguez37](https://www.linkedin.com/in/brandirodriguez37)  
+Tableau: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)    
 RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
-Tableau: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)  
+
 
 
 
