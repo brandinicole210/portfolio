@@ -11,7 +11,7 @@ Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slic
 
 ## Work Experience
 **Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (_Jul 2020 - Present_)**
-- Develop methodologies and document modeling and forecasting assumptions for deposits product behaviors
+- Responsibilities in reporting and strategy for deposits, analyzing product behavior to inform deposit assumptions used in forecasting, stress testing and interest rate risk modeling and documenting modeling and forecasting assumptions.  
 - **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular deposits FTP data from Excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
 - **Time Deposits Decay**: query for data using SQL in Snowflake, Tableau for visualization and Excel for analysis to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals
 - **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity to changes in the Fed Funds rate and incorporating the modeled betas into Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications 
