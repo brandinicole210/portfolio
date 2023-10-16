@@ -64,7 +64,6 @@ Managing customer retention and acquisition is essential for developing and main
 ![Correlogram](/assets/img/acquisition_correlogram.jpg)  
 
 ## Connect  
-LinkedIn: [www.linkedin.com/in/brandirodriguez37](https://www.linkedin.com/in/brandirodriguez37)  
 Tableau: [https://public.tableau.com/app/profile/brandi.rodriguez](https://public.tableau.com/app/profile/brandi.rodriguez)    
 RPubs: [https://rpubs.com/brandinicole210](https://rpubs.com/brandinicole210)  
 
