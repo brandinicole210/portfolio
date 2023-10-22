@@ -7,12 +7,12 @@ BBA Marketing | May 2011 | St. Mary’s University | 3.85 GPA
 St. Mary’s Honors Program Scholar  
 
 ## Technical Skills  
-Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slicers, Power Query for data cleaning), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, Oracle SQL Developer, Tableau, SAS Enterprise Guide, Basic SAS, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Intermediate R and Basic Python
+Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slicers, Power Query for data transformation), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, SQL Server Management Studio, Tableau, SAS Enterprise Guide, Basic SAS, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Basic R and Python
 
 ## Work Experience
 **Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (_Jul 2020 - Present_)**
-- Responsibilities in reporting and strategy for deposits, analyzing product behavior to inform deposit assumptions used in forecasting, stress testing and interest rate risk modeling and documenting modeling and forecasting assumptions.  
-- **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular deposits FTP data from Excel to enable visualization of trends in rates, balances, and margins by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
+- Responsibilities assisting with reporting and strategy for deposits, analyzing product behavior to inform deposit assumptions used in forecasting, stress testing and interest rate risk modeling and documenting assumptions.  
+- **Funds Transfer Pricing**: utilize Power Query for transformation of cross tabular deposits FTP data from Excel to enable visualization of trends in rates, balances, margins and variances by product segment and portfolio in Tableau and in Excel with the use of pivot charts and slicers
 - **Time Deposits Decay**: query for data using SQL in Snowflake, Tableau for visualization and Excel for analysis to answer questions of whether decay varies by product type (IRA vs. Time Deposit) and tier (Standard, Jumbo, Super Jumbo), or a combination of both, as well as exploring the effect of rising rate environment and competitive landscape on time deposits early withdrawals
 - **Deposit Pricing Betas**: utilized linear regression to model deposit pricing sensitivity to changes in the Fed Funds rate and incorporating the modeled betas into Interest Rate Risk modeling, Bank Stress Testing and Funds Transfer Pricing applications 
 - **Deposit Volatile and Stable Balances**: analysis of time series data to measure volatility of deposit balances to quantitatively derive stable and volatile balance mix assumptions and bifurcate balances into stable floating and stable fixed balances in order to forecast deposit behavior and value deposit balances more precisely based on its stability 
