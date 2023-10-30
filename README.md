@@ -20,8 +20,10 @@ Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slic
 - **Liquidity Metrics**: query for data using SQL in Snowflake and Essbase data retrieves for reporting and analysis that is completed in Excel and included in monthly ALCO materials
 
 **Asset Liability Risk Analyst @ Credit Human Federal Credit Union (_Feb 2017 - Jul 2020_)**
-- Funds Transfer Pricing processing, reporting and NIM analysis
-- Financial modeling to facilitate resource allocation and capital budgeting
+- Delivered monthly and quarterly reporting
+- Funds Transfer Pricing processing, reporting and Net Interest Margin analysis   
+- Financial and risk modeling, forecasting, and stress testing  
+- Performed financial analysis for resource allocation and various initiatives  
 - Projects Include: Financial modeling and analysis for large-scale projects such as new building purchase, sustainability initiatives (rainwater harvesting system, solar panels, geothermal envelope), solar panel lease and buyback scenarios, lease vs buying new laptops, expansion of Financial Health Centers in new markets, profitability of marketing plans to boost loan production
 
 **Marketing Executive @ VT San Antonio Aerospace (_Mar 2014 - Feb 2016_)**
