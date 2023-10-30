@@ -7,7 +7,7 @@ BBA Marketing | May 2011 | St. Mary’s University | 3.85 GPA
 St. Mary’s Honors Program Scholar  
 
 ## Technical Skills  
-Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slicers, Power Query for data transformation), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, SQL Server Management Studio, Tableau, SAS Enterprise Guide, Basic SAS, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Basic R and Python
+Advanced Excel (vlookups, indexing, dynamic logic, pivot tables and charts, slicers, Power Query for data transformation), SQL (joins, pivots/unpivot, lead/lags, temporary tables, etc.), Netezza, Snowflake, SQL Server Management Studio, Tableau, SAS Enterprise Guide, FIS Bancware, Fiserv Risk Management Suite, Financial Modeling, Essbase Reporting, Risk Management, Data Analysis & Visualization, Basic R and Python
 
 ## Work Experience
 **Senior Asset Liability Risk Analyst @ USAA Federal Savings Bank (_Jul 2020 - Present_)**
